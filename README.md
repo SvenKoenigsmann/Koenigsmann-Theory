@@ -30,4 +30,5 @@ This repository provides the full scientific package for independent review, ver
 Original first publication on X : https://x.com/i/communities/1942195656170356834
 
 @KingmanSven
+
 ![Repo Views](https://komarev.com/ghpvc/?username=SvenKoenigsmann&repo=Koenigsmann-Theory&style=flat-square&color=blue)
