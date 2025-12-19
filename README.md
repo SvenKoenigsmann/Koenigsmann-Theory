@@ -1,3 +1,4 @@
+![Views](https://komarev.com/ghpvc/?username=SvenKoenigsmann&repo=Koenigsmann-Theory&color=brightgreen&style=for-the-badge)
 # The Königsman Theory (KGT)  
 ### A Fractal–Geometric Framework for Gravity, Dark Matter Distribution, and Cosmological Scaling  
 **Author:** Sven Königsmann  
