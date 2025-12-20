@@ -31,7 +31,7 @@ The framework resolves key astrophysical inconsistencies without particle dark m
 
 ### 🔹 Main Theory Document  
 Complete theoretical description, mathematics, and cosmological framework:  
-https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/
 
 ---
 
