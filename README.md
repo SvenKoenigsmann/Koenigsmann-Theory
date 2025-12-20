@@ -103,7 +103,7 @@ Fits γ, η, and vortex curvature parameters to observed velocity data.
 [Königsmann Theorie – Authorship and Ownership.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/K%C3%B6nigsmann%20Theorie%20-%20Authorship%20and%20Intellectual%20Ownership%20Statement.pdf)
 
 ### **Appendix 2 – Structural Order & Cyclical Recurrence**
-[Königsmann_Theory – Appendix2.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Königsmann_Theory-Appendix2.pdf)
+[Königsmann_Theory – Appendix2.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Königsmann_Theory-Appendix_2.pdf)
 
 ---
 
