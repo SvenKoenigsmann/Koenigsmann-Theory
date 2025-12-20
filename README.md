@@ -31,7 +31,7 @@ This repository provides the full scientific package for **independent review**,
 
 # 📂 Repository Navigation
 
-## 🔵 **Main Repository**
+## 🔵 **Main Repository (main.tex)**
 [https://github.com/SvenKoenigsmann/Koenigsmann-Theory](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/main.tex)
 
 ---
