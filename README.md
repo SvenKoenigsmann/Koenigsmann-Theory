@@ -36,7 +36,7 @@ This repository provides the full scientific package for **independent review**,
 
 ---
 
-## 📜 **Full Theory Document (theory.md)**
+## 📜 **Full Theory Document **
 Complete theoretical description, mathematical derivation, and cosmological framework:
 
 ➡️ **Full Theory:**  
