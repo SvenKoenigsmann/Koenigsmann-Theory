@@ -52,11 +52,11 @@ Galaxy-by-galaxy γ-values, φ-scaling, backflow exponents, and Grok3 simulation
 
 ---
 
-## 🧩 **Structural Outline (outline.md)**  
+## 🧩 **Structural Outline (OUTLINE.md)**  
 Logical organization of the entire KGT model.
 
 ➡️ **Outline:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/outline.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/outline.md)
+[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/OUTLINE.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/OUTLINE.md)
 
 ---
 
