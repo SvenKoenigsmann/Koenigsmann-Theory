@@ -4,16 +4,7 @@
 **License:** CC BY 4.0  
 **Status:** Open Research Package (2026)
 
----
-
-## 🔗 Quick Access (Direct Links)
-
-| File | Description | Link |
-|------|-------------|------|
-| **theory.md** | Full Königsmann Theory | https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md |
-| **results.md** | Complete simulation results (UDGs, high-z, γ, ψ) | https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md |
-| **outline.md** | Structure overview of the full theory | https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/outline.md |
-| **kgt_btfr_simulation.py** | BTFR simulation (KGT exponent derivation) | https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_btfr_simulation.py |
+![Repo Views](https://komarev.com/ghpvc/?username=SvenKoenigsmann&repo=Koenigsmann-Theory&style=flat-square&color=blue)
 
 ---
 
@@ -21,49 +12,52 @@
 
 The Königsman Theory (KGT) proposes a unified geometric model of gravitational behavior based on  
 
-- **fractal Φ-scaling (Golden Ratio symmetry)**  
-- **vortex-driven curvature dynamics**  
-- **ψ-backflow fields**  
-- **non-linear density evolution Λ₍fractal₎(t)**  
+- **fractal Φ-scaling (Golden Ratio symmetry),**  
+- **vortex-driven curvature dynamics**,  
+- **ψ-backflow fields**,  
+- **non-linear density evolution Λ₍fractal₎(t)**.  
 
-The framework addresses several major open questions in astrophysics and cosmology, including:
+It aims to address major open problems in modern cosmology and astrophysics, including:
 
-- Galaxy rotation curves without exotic dark matter halos  
-- CP-violating matter distribution and large-scale structure formation  
-- Time–gravity coupling inside fractal curvature  
-- Macroscopic “tunneling-like” behavior and gravitational displacement  
+- Galaxy rotation curves without dark matter halos  
+- CP-violating matter distribution and large-scale structure  
+- Time–gravity coupling via vortex curvature  
+- Macroscopic “tunneling-like” field displacement phenomena  
 
-This repository provides the complete scientific package for independent review and further development.
-
----
-
-## 📂 Repository Contents  
-Original first publication on X:  
-https://x.com/i/communities/1942195656170356834  
-**@KingmanSven**
-
-![Repo Views](https://komarev.com/ghpvc/?username=SvenKoenigsmann&repo=Koenigsmann-Theory&style=flat-square&color=blue)
+This repository provides the complete scientific package for independent review and collaboration.
 
 ---
 
-## 📁 Repository Navigation
+## 📂 Repository Contents
 
-- **Main Repository**  
-  https://github.com/SvenKoenigsmann/Koenigsmann-Theory
+### 🔹 Main Theory Document  
+➡️ **Full theory with mathematical framework**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md
 
-- **Full Theory (theory.md)**  
-  https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md
+### 🔹 Results: Grok Simulation Data & Mathematical Outputs  
+➡️ **Rotation curves, γ-fits, φ-fractal scaling, backflow exponent**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md
 
-- **Simulation Results (results.md)**  
-  https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md
+### 🔹 Structural Outline  
+➡️ **Logical architecture of the complete KGT framework**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/outline.md
 
-- **Outline (outline.md)**  
-  https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/outline.md
+### 🔹 Tully-Fisher Abstract (PDF)  
+➡️ **Peer-review-ready abstract explaining geometric origin of BTFR**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_TullyFisher_Abstract.pdf
 
-- **BTFR Simulation Code (kgt_btfr_simulation.py)**  
-  https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_btfr_simulation.py
-Original first publication on X : https://x.com/i/communities/1942195656170356834
+### 🔹 Python Simulation (BTFR Test)  
+➡️ **Numerical demonstration that KGT reproduces Tully-Fisher naturally**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_btfr_simulation.py
 
-@KingmanSven
+---
+
+## 🌐 Original Publication  
+First publication on X:  
+https://x.com/i/communities/194219565617035683470356834  
+
+Author profile: **@KingmanSven**
+
+---
 
 ![Repo Views](https://komarev.com/ghpvc/?username=SvenKoenigsmann&repo=Koenigsmann-Theory&style=flat-square&color=blue)
