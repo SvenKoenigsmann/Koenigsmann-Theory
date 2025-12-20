@@ -65,7 +65,10 @@ Logical organization of the entire KGT model.
 ## 🔷 **BTFR Simulation Code (kgt_btfr_simulation.py)**  
 Numerical demonstration that KGT naturally reproduces the Tully–Fisher exponent.
 
-➡️ **BTFR Simulation:**  
+➡️ **BTFR Results:**
+[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_TullyFisher_Abstract.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_TullyFisher_Abstract.pdf)
+
+➡️ **BTFR Simulation:** 
 [https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py)
 
 ---
