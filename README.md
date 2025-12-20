@@ -10,53 +10,90 @@
 
 ## 📘 Overview
 
-The Königsman Theory (KGT) proposes a unified geometric model of gravitational behavior based on  
+The Königsman Theory (KGT) introduces a unified geometric description of gravitation based on:
 
-- **fractal Φ-scaling (Golden Ratio symmetry),**  
-- **vortex-driven curvature dynamics**,  
-- **ψ-backflow fields**,  
-- **non-linear density evolution Λ₍fractal₎(t)**.  
+- **Fractal Φ-scaling (Golden Ratio symmetry)**  
+- **Vortex-driven curvature dynamics**  
+- **ψ-backflow fields and directional anisotropy**  
+- **Non-linear density evolution Λ₍fractal₎(t)**  
 
-It aims to address major open problems in modern cosmology and astrophysics, including:
+The framework resolves key astrophysical inconsistencies without particle dark matter, providing a geometric interpretation of:
 
-- Galaxy rotation curves without dark matter halos  
-- CP-violating matter distribution and large-scale structure  
-- Time–gravity coupling via vortex curvature  
-- Macroscopic “tunneling-like” field displacement phenomena  
-
-This repository provides the complete scientific package for independent review and collaboration.
+- Ultra-diffuse galaxy dynamics  
+- Lensing asymmetries  
+- CP-violating structure formation  
+- Time–gravity coupling  
+- Macroscopic gravitational displacement  
 
 ---
 
 ## 📂 Repository Contents
 
 ### 🔹 Main Theory Document  
-➡️ **Full theory with mathematical framework**  
-https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/
+Complete theoretical description, mathematics, and cosmological framework:  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md
 
-### 🔹 Results: Grok Simulation Data & Mathematical Outputs  
-➡️ **Rotation curves, γ-fits, φ-fractal scaling, backflow exponent**  
+---
+
+### 🔹 Results (Grok Simulations & Data)  
+Galaxy-by-galaxy γ-values, backflow exponents, and Φ-scaling confirm KGT predictions:  
 https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md
 
+---
+
 ### 🔹 Structural Outline  
-➡️ **Logical architecture of the complete KGT framework**  
-https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/outline.md
+Logical organization of the full KGT model:  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/OUTLINE.md
+
+---
+
+## 🔹 Fundamental Fractal Model (KGT Core Simulation)
+
+This is the **central mathematical engine** of KGT — the Φ-harmonic fractal vortex structure that produces:
+
+- curvature fields  
+- ψ-backflow channels  
+- anisotropic gravity  
+- dark-matter-like displacement  
+- Λ₍fractal₎(t) dynamics  
+
+➡️ **Fractal Vortex Simulation (Python):**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/vortex_fractal.py
+
+➡️ **Fractal Geometry PDF:**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/vortex_fractal.pdf
+
+This module forms the **geometric backbone** of the Königsman Theory.
+
+---
 
 ### 🔹 Tully-Fisher Abstract (PDF)  
-➡️ **Peer-review-ready abstract explaining geometric origin of BTFR**  
+Geometric derivation of BTFR from fractal Φ-scaling and ψ-backflow:  
 https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_TullyFisher_Abstract.pdf
 
-### 🔹 Python Simulation (BTFR Test)  
-➡️ **Numerical demonstration that KGT reproduces Tully-Fisher naturally**  
+---
+
+### 🔹 BTFR Python Simulation  
+Numerical demonstration that KGT reproduces Tully-Fisher naturally:  
 https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_btfr_simulation.py
 
 ---
 
+### 🔹 Additional Python Simulations  
+- Andromeda rotation curve  
+- Dark-matter backflow model  
+- Vortex channels  
+- Φ-fractal curvature geometry  
+
+Included for replication and further research.
+
+---
+
 ## 🌐 Original Publication  
-First publication on X:  
+First public scientific release on X:  
 https://x.com/i/communities/194219565617035683470356834  
 
-Author profile: **@KingmanSven**
+Author: **@KingmanSven**
 
 ---
 
