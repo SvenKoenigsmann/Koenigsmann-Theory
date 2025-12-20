@@ -32,7 +32,7 @@ This repository provides the complete scientific package for independent review 
 
 ### 🔹 Main Theory Document  
 ➡️ **Full theory with mathematical framework**  
-https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/
 
 ### 🔹 Results: Grok Simulation Data & Mathematical Outputs  
 ➡️ **Rotation curves, γ-fits, φ-fractal scaling, backflow exponent**  
