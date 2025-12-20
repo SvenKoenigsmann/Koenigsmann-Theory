@@ -32,7 +32,7 @@ This repository provides the full scientific package for **independent review**,
 # 📂 Repository Navigation
 
 ## 🔵 **Main Repository**
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/)
+[https://github.com/SvenKoenigsmann/Koenigsmann-Theory](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/main.tex)
 
 ---
 
@@ -40,7 +40,7 @@ This repository provides the full scientific package for **independent review**,
 Complete theoretical description, mathematical derivation, and cosmological framework:
 
 ➡️ **Full Theory:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/theory.md)
+[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/)
 
 ---
 
