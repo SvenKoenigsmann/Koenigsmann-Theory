@@ -72,6 +72,9 @@ Numerical demonstration that KGT naturally reproduces the Tully–Fisher exponen
 ➡️ **BTFR Simulation:** 
 [https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py)
 
+➡️ **BTFR Validation:** 
+[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Grok_Validation_Report.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Grok_Validation_Report.md)
+
 ---
 
 ## 🌀 **Fractal Geometry & Vortex Dynamics (vortex_fractal.py)**  
