@@ -82,7 +82,7 @@ perfect asymptotic plateau of:
 fully consistent with Gaia, SPARC and classical M31 measurements.
 
 ### 📄 Simulation File
-➡️ **[`andromeda_KGT_v4.2.py`](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4.2.py)**
+➡️ **[`andromeda_KGT_v4_2.py`](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4_2.py)**
 
 ---
 
