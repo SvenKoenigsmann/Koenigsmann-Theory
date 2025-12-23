@@ -8,58 +8,73 @@
 
 ## Overview
 
-In the center of a fractal vortex system, the increasing density of overlapping vortices naturally generates **counter-rotating, compensatory structures**.  
-These emergent counter-vortices:
+In the center of a fractal vortex system, the increasing density and overlap of vortex layers naturally generate **counter-rotating compensatory structures**.  
+These counter-vortices arise mathematically from Φ-scaled curvature and physically from torque inversion at every fractal subdivision.
 
-- reduce local gravitational amplification,  
-- redistribute energetic stress along higher-order fractal pathways,  
-- prevent long-term mass accumulation in the galactic core.
+These emergent structures:
 
-Within the **Königsmann Theory**, dark matter acts as a **non-inertial, Φ-scaled feedback medium**, capable of redistributing mass-energy through **fractal resonance paths**.  
-These paths allow **scale-dependent super-resonant propagation** (not classical “superluminal speed”, but a faster effective propagation on deeper fractal layers), enabling a *time-independent* equilibration of central overdensities.
+- locally **dampen gravitational amplification**,  
+- redistribute curvature stress into outer vortex layers,  
+- prevent long-term mass accumulation in the galactic core,  
+- maintain **harmonic balance** across the entire fractal vortex hierarchy.
 
-As a consequence:  
-➡️ **A galactic center cannot maintain a persistent overdensity**, because the fractal backflow continuously drains excess curvature into the surrounding structure.
+Because each vortex layer contains smaller, harmonically scaled sub-vortices, the number of counter-vortices **increases toward the center**, but their mass-carrying capacity decreases proportionally — a self-balancing structure.
+
+Within the **Königsmann Theory (KGT)**, dark matter acts as a  
+**non-inertial Φ-resonant feedback medium**, enabling mass-energy redistribution along fractal resonance paths at **super-resonant effective speeds** (not classical “superluminal speed”, but a deeper-layer propagation mode).  
+This makes the equilibration **time-independent** on galactic scales.
+
+➡️ **Therefore, a galactic center cannot maintain a persistent overdensity**, because the fractal backflow continuously drains excess curvature outward.
 
 ---
 
 ## Code Integration in KGT v4.4
 
-Earlier numerical versions (v3.x and early v4.x) did not yet include a full representation of this central fractal backflow, leading to **overpredicted rotation velocities** at radii below ~5 kpc.
+Earlier versions of the simulation (v3.x and early v4.x) lacked the proper fractal counter-vortex damping.  
+This led to **overpredicted rotation velocities in the inner 1–5 kpc**, despite the theory already predicting that central mass cannot accumulate.
 
-Beginning with **KGT v4.4**, the model now incorporates:
+Beginning with **KGT v4.4**, the numerical model now includes:
 
-- a radius-dependent **core damping term**,  
-- reflecting the counter-vortex structure in the inner region,  
-- consistent with the fractal feedback dynamics described in the theory.
+### ✔ Radius-dependent fractal counter-vortex damping  
+Represents harmonic reduction of vortex strength toward the center.
 
-This addition corrects the inner overshoot while **preserving the stable outer plateau**, leading to a more accurate fit of the Andromeda rotation curve across all radii.
+### ✔ Dynamic ψ-backflow exponent η(r)  
+Captures the transition between inner and outer fractal zones.
+
+### ✔ Fractal resonance suppression factor  
+Prevents curvature buildup at small radii.
+
+### ✔ Preservation of the outer Ω-asymptotic plateau  
+The successful fit at large radii (~220–230 km/s) remains intact.
+
+This implementation yields a balanced and physically consistent fit across all radii of the Andromeda rotation curve.
 
 ---
 
 ## Theoretical Reference
 
-The physical mechanism implemented here is **already described** in the formal Königsmann Theory document:
+The mechanism implemented in v4.4 is **already documented** in the main theoretical manuscript:
 
-### **Koenigsmann_Theory_For_arXiv.pdf**
+### 📄 *Koenigsmann_Theory_For_arXiv.pdf*
 
-Relevant theoretical sections include:
+Relevant sections include:
 
 - **Section 5 — Transition Zone Dynamics**  
-  (macro–quantum coupling, time compression in vortex centers)
+  (macro–quantum coupling and time compression in vortex centers)
 
 - **Section 6 — Dark Matter as a Fractal Feedback System**  
   (non-local redistribution along Φ-scaled resonance paths)
 
 - **Appendix B — Scale-Dependent Propagation in the Fractal Hierarchy**  
-  (effective “super-resonant” transfer enabling rapid equilibration)
+  (effective super-resonant transfer enabling rapid equilibration)
 
-These sections together constitute the **formal theoretical basis**  
+These sections together form the **formal theoretical basis**  
 for the central backflow implemented in KGT v4.4.
 
 ---
 
 ## Keywords
 
-fractal gravity • dark matter • backflow • Königsmann Theory •  
-central damping • Φ-resonance • feedback system • M31 rotation curve • KGT v4.4
+fractal gravity • dark matter • backflow • central damping •  
+counter-vortex • Φ-scaling • resonance tunneling • fractal hierarchy •  
+KGT v4.4 • M31 rotation curve
