@@ -70,7 +70,7 @@ The new document describes the **central fractal-damping mechanism** that preven
 - effective “super-resonant propagation” along deep-level fractal paths  
 
 ➡️ **fractal_backflow_KGT_v4.9.md**  
-https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/fractal_backflow_KGT_v4.9.md
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/fractals_backflow_KGT_v4.9.md
 
 This mechanism is the theoretical foundation for the improved Andromeda fit in **KGT v4.9**.
 
