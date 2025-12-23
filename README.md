@@ -32,7 +32,7 @@ This repository provides the complete scientific package for **independent revie
 # 📂 Repository Navigation
 
 ## 🔵 Main Repository (main.tex)  
-➡️ https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/main.tex
+➡️ https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory_For_arXiv.pdf
 
 ---
 
