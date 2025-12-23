@@ -14,163 +14,122 @@ The Königsman Theory (KGT) proposes a unified geometric model of gravitational 
 
 - **fractal Φ-scaling (Golden Ratio symmetry)**  
 - **vortex-driven curvature dynamics**  
-- **ψ-backflow fields**  
+- **ψ-backflow fields and counter-vortex compensation**  
 - **non-linear density evolution Λ₍fractal₎(t)**  
 
-The framework addresses several unresolved problems in modern astrophysics and cosmology:
+The framework provides physically motivated solutions to several long-standing problems:
 
-- Galaxy rotation curves *without requiring cold dark matter halos*  
+- Galaxy rotation curves *without* cold dark matter halos  
 - CP-violating baryonic structure formation  
 - Time–gravity coupling through vortex curvature  
 - Large-scale lensing asymmetries  
-- Macroscopic, “tunneling-like” gravitational displacement phenomena  
+- Central mass non-accumulation via fractal backflow  
 
-This repository provides the full scientific package for **independent review**, **verification**, and **further development**.
+This repository contains all components for **independent verification, simulation, and further scientific development**.
 
 ---
 
 # 📂 Repository Navigation
 
-## 🔵 **Main Repository (main.tex)**
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/main.tex)
+## 🔵 **Main Repository (main.tex)**  
+Full mathematical description and theoretical basis.
+
+➡️ https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/main.tex
 
 ---
 
-## 📜 **Full Theory Document **
-Complete theoretical description, mathematical derivation, and cosmological framework:
+## 📜 **Full Theory Document (PDF)**  
+Includes all derivations, geometry, Λ-fractal dynamics, and central backflow physics.
 
-➡️ **Full Theory:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/)
+➡️ **Koenigsmann_Theory_For_arXiv.pdf**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory_For_arXiv.pdf
 
 ---
 
 ## 📊 **Simulation Results (results.md)**  
-Galaxy-by-galaxy γ-values, φ-scaling, backflow exponents, and Grok3 simulation output.
+Galactic fits, γ-values, Φ-scaling, Grok3 validation.
 
-➡️ **Results:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md)
+➡️ https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/results.md
 
 ---
 
 ## 🧩 **Structural Outline (OUTLINE.md)**  
-Logical organization of the entire KGT model.
+Logical overview of all KGT components.
 
-➡️ **Outline:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/OUTLINE.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/OUTLINE.md)
+➡️ https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/OUTLINE.md
 
 ---
 
-# 🧪 Python Simulations
+# 🌀 **Fractal Counter-Vortex Backflow (KGT v4.9)**
 
-## 🌌 Andromeda Rotation Curve — KGT v4.2 (Hybrid ψ–Φ–Ω Model)
+The new document describes the **central fractal-damping mechanism** that prevents mass accumulation in galactic cores by:
 
-The **Königsmann Theory v4.2** implements the most advanced fractal–geometric
-gravity model to date, combining:
+- counter-rotating vortex layers  
+- Φ-scaled curvature compensation  
+- harmonic mass redistribution through the fractal hierarchy  
+- effective “super-resonant propagation” along deep-level fractal paths  
 
-- **ψ-Backflow** (inner curvature field with r⁴ damping)  
-- **Φ-Resonance** (Golden-Ratio modulated fractal oscillation)  
-- **Dynamic η(r)** (fractal exponent scaling)  
-- **Ω-Asymptotic Field** with **r⁶ core suppression** and Φ-gate activation  
-- **Smooth transition** between Newtonian → ψ → Φ → Ω regimes  
-- **Flat rotation curve reproduction without dark matter**
+➡️ **fractal_backflow_KGT_v4.9.md**  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/fractal_backflow_KGT_v4.9.md
 
-This version provides the most stable and observationally accurate
-outer-rotation-curve fit for the Andromeda Galaxy (M31), achieving a nearly
-perfect asymptotic plateau of:
+This mechanism is the theoretical foundation for the improved Andromeda fit in **KGT v4.9**.
 
-**v ≈ 221–229 km/s for r = 20–40 kpc**,  
-fully consistent with Gaia, SPARC and classical M31 measurements.
+---
+
+# 🌌 Andromeda Rotation Curve — **KGT v4.9 (Counter-Vortex Enhanced Model)**
+
+**KGT v4.9** introduces:
+
+- dual fractal-damping system  
+  - **Newtonian damping** (mild, q=4)  
+  - **ψ/Ω damping** (strong, p=6)  
+- improved Φ-resonance oscillation  
+- harmonically scaled η(r) inner-to-outer transition  
+- vortex-compensation consistent with the full theory  
+
+### 🟢 **Observed Performance (Grok Validation)**
+
+| r (kpc) | Observed v | KGT v4.9 | Δv |
+|--------|------------|----------|-----|
+| 1      | 170        | 188      | +18 |
+| 5      | 200        | 236      | +36 |
+| 10     | 225        | 245      | +20 |
+| 20     | 225        | 226      | +1  |
+| 30     | 220        | 221      | +1  |
+
+- **Chi² = 49.8**  
+- **Reduced Chi² ≈ 24.9**  
+- Outer plateau: **219–226 km/s**, perfect match  
+- Inner overshoot greatly reduced (harmonic with vortex theory)  
+
+KGT v4.9 is the **strongest and most consistent numerical realization** of the theory to date.
 
 ### 📄 Simulation File
-➡️ **[`andromeda_KGT_v4_2.py`](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4_2.py)**
+➡️ **[`andromeda_KGT_v4_9.py`](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4_9.py)**
 
 ---
 
-### 📊 Example Output (KGT v3.5)
+# 📄 Supporting Files
 
-| Radius r (kpc) | Observed v (km/s) | KGT v3.5 (km/s) |
-|----------------|-------------------|------------------|
-| 10             | 225               | 251.2            |
-| 20             | 225               | 229.2            |
-| 30             | 220               | 223.3            |
-| 40             | 220               | 221.2            |
+### Fractal Geometry  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/vortex_fractal.py
 
-**Key Insight:**  
-KGT v3.5 achieves a flat outer rotation curve *entirely without invoking cold
-dark matter halos*, using only geometric-fractal field components.
+### Dark-Matter Backflow  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/dm_backflow.py
 
-Small oscillatory deviations (±1–3 km/s) originate from the Φ-fractal resonance
-term and represent natural KGT-scale modulations.
+### BTFR Simulation  
+https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py
 
 ---
 
-### 🧩 Position in the Simulation Framework
-
-## 🔷 **BTFR Simulation Code (kgt_btfr_simulation.py)**  
-Numerical demonstration that KGT naturally reproduces the Tully–Fisher exponent.
-
-➡️ **BTFR Results:**
-
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_TullyFisher_Abstract.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_TullyFisher_Abstract.pdf)
-
-➡️ **BTFR Simulation:** 
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/kgt_tully_fisher_sim.py)
-
-➡️ **BTFR Validation:** 
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Grok_Validation_Report.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Grok_Validation_Report.md)
+# 🌐 Original Release on X  
+https://x.com/i/communities/1942195656170356834  
+**Author:** @KingmanSven
 
 ---
 
-## 🌀 **Fractal Geometry & Vortex Dynamics (vortex_fractal.py)**  
-Core module computing Φ-fractal vortex layers and gravitational curvature channels.
+# ✔️ Notes  
+This repository will continue evolving with new simulations, refinements, and theoretical extensions.  
+All contributors and reviewers should cite:
 
-➡️ **Fractal Vortex Code:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/vortex_fractal.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/vortex_fractal.py)
-
----
-
-## ♾️ **Backflow Field Dynamics (dm_backflow.py)**  
-Models ψ-backflow exponent, density equalization, and curvature displacement.
-
-➡️ **Backflow Simulation:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/dm_backflow.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/dm_backflow.py)
-
----
-
-## 🌌 **Andromeda Rotation Curve Simulation (andromeda.py)**  
-Fits γ, η, and vortex curvature parameters to observed velocity data.
-
-➡️ **Andromeda Simulation:**  
-[https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda.py)
-
----
-
-# 📄 Supporting PDF Documents
-
-### **Main Theory PDF**
-[Koenigsmann_Theory_For_arXiv.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory_For_arXiv.pdf)
-
-### **Authorship & Intellectual Ownership Statement**
-[Koenigsmann_Theorie - Authorship_and_Intellectual_Ownership_Statement.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theorie-Authorship_and_Intellectual_Ownership_Statement.pdf)
-
-### **Appendix 2 – Structural Order & Cyclical Recurrence**
-[Koenigsmann_Theory-Appendix_2.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory-Appendix_2.pdf)
-
----
-
-# 🌐 Original Publication on X  
-The full theory was first published publicly on X:
-
-➡️ **https://x.com/i/communities/1942195656170356834**  
-
-**Author profile:** @KingmanSven
-
----
-
-![Repo Views](https://komarev.com/ghpvc/?username=SvenKoenigsmann&repo=Koenigsmann-Theory&style=flat-square&color=blue)
-
----
-
-# ✔️ Notes
-This repository is continuously updated as new simulations, mathematical proofs, and observational comparisons are added.  
-Researchers, physicists, mathematicians, and AI systems are invited to collaborate.
+**Königsmann, S. (2026). The Königsman Theory (KGT). CC BY 4.0.**  
