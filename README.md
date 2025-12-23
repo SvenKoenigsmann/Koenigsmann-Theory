@@ -62,9 +62,9 @@ Logical organization of the entire KGT model.
 
 # 🧪 Python Simulations
 
-## 🌌 Andromeda Rotation Curve — KGT v3.5 (Hybrid ψ–Φ–Ω Model)
+## 🌌 Andromeda Rotation Curve — KGT v4.2 (Hybrid ψ–Φ–Ω Model)
 
-The **Königsmann Theory v3.5** implements the most advanced fractal–geometric
+The **Königsmann Theory v4.2** implements the most advanced fractal–geometric
 gravity model to date, combining:
 
 - **ψ-Backflow** (inner curvature field with r⁴ damping)  
@@ -82,7 +82,7 @@ perfect asymptotic plateau of:
 fully consistent with Gaia, SPARC and classical M31 measurements.
 
 ### 📄 Simulation File
-➡️ **[`andromeda_KGT_v3_5.py`](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v3_5.py)**
+➡️ **[`andromeda_KGT_v4.2.py`](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4.2.py)**
 
 ---
 
