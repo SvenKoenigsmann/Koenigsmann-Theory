@@ -53,15 +53,21 @@ This repository provides the complete scientific package for **independent revie
 
 # 🧪 Python Simulations
 
-## 🌌 Andromeda Rotation Curve — **KGT v4.9**  
+## 🌌 **Andromeda Rotation Curve — KGT v5.1 (latest validated version)**  
 The latest and strongest version, integrating:
 
 - **Fractal counter-vortex damping (Newton + ψ + Ω split)**  
 - **Dynamic η(r) backflow scaling**  
 - **Φ-resonance oscillations**  
 - **Ω-asymptotic flattening**  
+- **Newton damping adjusted per Grok-analysis**  
 
 ### 📄 Simulation File  
+➡️ [andromeda_KGT_v5_1.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v5_1.py)
+
+---
+
+## 🌌 Previous Stable Version — **KGT v4.9**  
 ➡️ [andromeda_KGT_v4_9.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4_9.py)
 
 ### 📄 Fractal Backflow Paper (v4.9)  
@@ -115,3 +121,6 @@ Author: **@KingmanSven**
 ---
 
 # ✔ Notes
+- KGT v5.1 is currently under **Grok X-Validation**  
+- After confirmation, it becomes the **official baseline** for all further versions  
+- Earlier versions remain included for scientific reproducibility  
