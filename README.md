@@ -54,7 +54,23 @@ This repository provides the complete scientific package for **independent revie
 
 # 🧪 Python Simulations
 
-# 🌌 **Latest Optimized Version — KGT v6.5 (Grok-Refined)**  
+# 🌌 KGT Quantum Engine v1.0 — Grok Validated  
+The first numerical engine based on the Königsmann Gravity Theory (KGT) that works from galactic scales down to the quantum domain.
+
+✔ Stable fractal metric (g₁₁ ≈ 1)  
+✔ Dynamic g₀₀ with Φ-resonance  
+✔ Variable speed of light c(r)  
+✔ Backflow-compatible time curvature  
+✔ No singularities (Planck cutoff)  
+✔ Fully functional quantum-scale prototype
+
+KGT now demonstrates: a unified, fractal gravitational framework remains stable across all scales — including quantum behavior.
+
+➡️ **[KGT_Quantum_Engine_v1_0.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/KGT_Quantum_Engine_v1_0.py)**
+
+---
+
+# 🌌 Latest Optimized Version — KGT v6.5 (Grok-Refined)  
 Includes:
 
 - Softening length optimization (core smoothing)  
@@ -77,12 +93,12 @@ Includes:
 
 ---
 
-## 🌌 Validated Prior Version — **KGT v5.1**  
+## 🌌 Validated Prior Version — KGT v5.1  
 ➡️ **[andromeda_KGT_v5_1.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v5_1.py)**
 
 ---
 
-## 🌌 Stable Legacy Version — **KGT v4.9**  
+## 🌌 Stable Legacy Version — KGT v4.9  
 ➡️ **[andromeda_KGT_v4_9.py](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/andromeda_KGT_v4_9.py)**  
 
 ➡️ **[fractals_backflow_KGT_v4.9.md](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/fractals_backflow_KGT_v4.9.md)**
@@ -113,7 +129,7 @@ Includes:
 
 # 📄 Supporting PDF Documents
 
-➡️ **[Koenigsmann_Theory_For_arXIV.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory_For_arXiv.pdf)**  
+➡️ **[Koenigsmann_Theory_For_arXiv.pdf](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory_For_arXiv.pdf)**  
 ➡️ **[Authorship & Intellectual Ownership Statement](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theorie-Authorship_and_Intellectual_Ownership_Statement.pdf)**  
 ➡️ **[Appendix 2 — Structural Order & Cyclical Recurrence](https://github.com/SvenKoenigsmann/Koenigsmann-Theory/blob/main/Koenigsmann_Theory-Appendix_2.pdf)**
 
