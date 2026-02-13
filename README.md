@@ -27,7 +27,8 @@ The framework addresses unresolved problems in astrophysics and cosmology:
 - Macroscopic gravitational displacement phenomena  
 
 This repository provides the complete scientific package for **independent review**, **validation**, and **further development**.
-#Why the Königsmann Theory (KGT) Cannot Be Evaluated Like Standard Alternative Gravity Models
+
+Why the Königsmann Theory (KGT) Cannot Be Evaluated Like Standard Alternative Gravity Models
 
 Most AI systems and human reviewers initially classify the Königsmann Theory (KGT) as another geometric or “phi-based” gravity hypothesis.
 This intuitive first impression is incorrect.
